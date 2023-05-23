@@ -19,3 +19,16 @@ For the cover of our sticker book we decided to go with a marble acrylic paint t
 Within the sticker book, you will have the opportunity to delve into your thoughts and inner world as the MOC team guides you on the tour. It is designed to be accessible, with gentle prompts, interesting facts, and playful stickers to engage with. The focus is on fostering an enjoyable and thought-provoking experience for participants.
 
 https://www.canva.com/design/DAFjSDMVPus/view
+
+
+## Armadillo iteration - MOC kick-off invite
+
+
+first vinylcut on one side with these settings: <br>
+<img width="1153" alt="1 engrave-frontside" src="https://github.com/stella-dikmans/MOC-III/assets/115219314/a6e1690a-edae-45d6-9bcc-cde105f71dfc">
+
+then turn the page (sideways) and perfrorm the second vinylcut on this side (backside) with these settings: <br>
+<img width="1157" alt="2 engrave-backside" src="https://github.com/stella-dikmans/MOC-III/assets/115219314/2169df86-e9e7-4621-be1c-ae8663c1f1a7">
+
+and then load it for one last time to cut the pieces in either side (better to just keep it nw) and perfrorm the third vinylcut with these settings: <br>
+<img width="1104" alt="3 cut-oneside" src="https://github.com/stella-dikmans/MOC-III/assets/115219314/f1cecb15-d3cf-4061-a9e9-590d2dde6863">
